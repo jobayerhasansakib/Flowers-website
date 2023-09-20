@@ -1,0 +1,142 @@
+.navber {
+    /* width: 1450px; */
+    height: 850px;
+    flex-shrink: 0;
+    font-family: Lato;
+    font-style: normal;
+    line-height: normal;
+}
+
+.main-section {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.header {
+    width: 708px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: -5px;
+}
+
+.bio {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.btn-primary {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.navber-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.first-pic {
+    width: 500px;
+    height: 600px;
+}
+
+/* second section styels */
+.div-2 {
+    text-align: center;
+    font-family: Lato;
+    font-style: normal;
+    line-height: normal;
+}
+
+
+.second-header {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.second-bio {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: -30px;
+}
+
+.chief-div {
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 80px;
+
+}
+
+.card-1 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    width: 380px;
+    height: 400px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    margin-left: 80px;
+    /* margin-right: 10px; */
+}
+
+.card-2 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 380px;
+    height: 400px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.card-3 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 380px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 25px;
+}
+
+.pic-1 {
+    width: 280px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -25px;
+    align-items: center;
+}
